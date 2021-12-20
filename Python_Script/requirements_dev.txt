@@ -1,0 +1,8 @@
+# Formats the code, 88 chars max line length
+black
+
+# Sorts imports
+isort
+
+# Linter, checks for potential error/bad habits
+flake8
